@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 <h3 align="center">Computer & Telematics Engineering Student in University of Aveiro</h3>
-</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pmacoutinho&show_icons=true&theme=synthwave&locale=en&layout=compact" alt="pmacoutinho" /></p>
 
