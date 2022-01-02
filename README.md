@@ -12,7 +12,6 @@
 
 # Hi there! 👋  
 ### Computer & Telematics Engineering Student in University of Aveiro
-<br>
 
 ![Snake animation](https://github.com/pmacoutinho/pmacoutinho/blob/output/github-contribution-grid-snake.svg)
 
