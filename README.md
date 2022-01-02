@@ -1,5 +1,5 @@
 # Hi there! 👋  
-### Computer & Telematics Engineering Student in University of Aveiro
+### I'm a Computer & Telematics Engineering student in University of Aveiro, currently working on getting my Masters degree
 <br>
 
 <div>
