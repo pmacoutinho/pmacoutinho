@@ -1,4 +1,12 @@
-### Hi there 👋
+# Hi there! 👋  
+### Computer & Telematics Engineering Student in University of Aveiro
+![](https://komarev.com/ghpvc/?username=pmacoutinho&style=flat&color=brightgreen)
+<br>
+
+<div>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=pmacoutinho&theme=synthwave&show_icons=true" width="420"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pmacoutinho&hide=vhdl&theme=gotham&langs_count=6&layout=compact"/>
+</div>
 
 <!--
 **pmacoutinho/pmacoutinho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
