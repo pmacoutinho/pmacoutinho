@@ -1,11 +1,10 @@
 # Hi there! 👋  
 ### Computer & Telematics Engineering Student in University of Aveiro
-![](https://komarev.com/ghpvc/?username=pmacoutinho&style=flat&color=brightgreen)
 <br>
 
 <div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=pmacoutinho&theme=synthwave&show_icons=true" width="420"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pmacoutinho&hide=vhdl&theme=gotham&langs_count=6&layout=compact"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=pmacoutinho&theme=cobalt&show_icons=true" width="420"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pmacoutinho&hide=vhdl&theme=synthwave&langs_count=6&layout=compact"/>
 </div>
 
 <!--
