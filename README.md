@@ -1,8 +1,10 @@
-<p align="center">
+<div align="center">
+
 # Hi there! 👋  
-### I'm a Computer and Telematics Engineering student at the University of Aveiro, currently working on my master's thesis
+### I'm a Computer and Telematics Engineering student at the University of Aveiro, currently working on my master's thesis  
 <br>
-</p>
+
+</div>
 
 <h3 align="center">I have personal experience and feel comfortable working with:</h3>
 <p align="center">
