@@ -13,4 +13,4 @@
 #
 ###
 
-![Snake animation](https://github.com/pmacoutinho/pmacoutinho/blob/output/github-snake.svg)
+![Snake animation](https://github.com/pmacoutinho/pmacoutinho/blob/output/github-contribution-grid-snake-dark.svg)
