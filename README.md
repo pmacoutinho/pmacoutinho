@@ -2,10 +2,10 @@
 ### I'm a Computer and Telematics Engineering student at the University of Aveiro, currently working on my master's thesis
 <br>
 
-<h3 align="left">Comfortable with:</h3>
+<h3 align="center">I have personal experience and feel comfortable working with:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,java,go,js,react,html,css,mysql,postgres,cmake,androidstudio,aws,terraform,postman,docker,git,bash,linux,arch,ubuntu,neovim,vim,obsidian,latex,md" />
   </a>
 </p>
 
