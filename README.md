@@ -1,16 +1,10 @@
 # Hi there! 👋  
-### I'm a Computer & Telematics Engineering student in University of Aveiro, currently working on getting my Masters degree
+### I'm a Computer and Telematics Engineering student at the University of Aveiro, currently working on my master's thesis
 <br>
 
-<div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=pmacoutinho&theme=cobalt&show_icons=true" width="420"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pmacoutinho&hide=vhdl&theme=cobalt&langs_count=6&layout=compact"/>
-</div>
-
-<h3 align="left">Most comfortable with:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> </p>
+<h3 align="left">Comfortable with:</h3>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 #
 ###
-
 ![Snake animation](https://github.com/pmacoutinho/pmacoutinho/blob/output/github-contribution-grid-snake-dark.svg)
