@@ -6,7 +6,13 @@
 <h3 align="center">I have personal experience and feel comfortable working with:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,java,go,js,react,html,css,mysql,postgres,cmake,androidstudio,aws,terraform,postman,docker,git,bash,linux,arch,ubuntu,neovim,vim,obsidian,latex,md" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,java,go,js,react,html,css,mysql,postgres,cmake,androidstudio,aws,terraform" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postman,docker,git,bash,linux,arch,ubuntu,neovim,vim,obsidian,latex,md" />
   </a>
 </p>
 
